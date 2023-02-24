@@ -1,0 +1,19 @@
+img{
+  height:300px;
+  padding: ;
+}
+
+.section1{
+  background-color: white;
+  width 350px;
+  height: 350px;
+  text-align:center;
+  margin:30px;
+/*   could be solid or dotted */
+  border:10px solid black;
+  padding: 1px;
+}
+
+.container{
+  display: flex;
+}
